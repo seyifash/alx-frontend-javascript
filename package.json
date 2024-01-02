@@ -7,6 +7,10 @@
     "test": "jest",
     "dev": "node 0-main.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seyifash/alx-frontend-javascript.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
