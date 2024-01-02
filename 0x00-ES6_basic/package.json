@@ -2,11 +2,11 @@
   "name": "alx-frontend-javascript",
   "version": "1.0.0",
   "description": "",
-  "main": "1-block-scoped.js",
+  "main": "2-arrow.js",
   "scripts": {
     "test": "jest",
      "lint": "eslint .",
-    "dev": "node 1-main.js"
+    "dev": "node 2-main.js"
   },
   "repository": {
     "type": "git",
